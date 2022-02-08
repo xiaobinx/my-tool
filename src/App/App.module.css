@@ -1,0 +1,10 @@
+.drawer_header {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.drawer_header_title {
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+}
